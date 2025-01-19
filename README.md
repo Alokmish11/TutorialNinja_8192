@@ -19,6 +19,27 @@ Welcome to the **Tutorials Ninja** platform! This is a comprehensive e-commerce 
 10. **Mobile and Cross-browser Compatibility**
 11. **Security Features**
 12. **Error Handling**
+13. ## *Project Structure*
+
+TutorialsNinjaProject
+│
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── Pages         # Page Object Model classes
+│   │   └── resources
+│
+├── src
+│   ├── test
+│   │   ├── java
+│   │   │   ├── StepDefinitions
+│   │   │   ├── TestRunner   # Runner classes
+│   │   │   └── Utilities    # Utility classes
+│   │   └── resources
+│
+├── pom.xml                   # Maven dependencies
+└── README.md                 # Project overview (this file)
+
 
 ---
 
