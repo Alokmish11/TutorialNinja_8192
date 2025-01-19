@@ -111,6 +111,11 @@ TutorialsNinjaProject
 4. **Run the tests:**
    ```bash
    mvn test
+
+   ## *Contributors*
+- [Alok Mishra ](https://github.com/<your-username>)
+- [Vinita ](https://github.com/<team-member2>)
+
    ```
 
 
