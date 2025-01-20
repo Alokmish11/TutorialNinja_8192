@@ -53,7 +53,6 @@ This project focuses on performing both **manual** and **automated testing** to 
 
 ## 🧪 Testing Approach
 ### **Manual Testing**
-![Manual Testing](https://upload.wikimedia.org/wikipedia/commons/6/65/Manual_Testing_Icon.png)
 - Perform exploratory testing to identify usability issues and edge cases.
 - Validate workflows manually, focusing on critical features:
   - Login
@@ -62,7 +61,6 @@ This project focuses on performing both **manual** and **automated testing** to 
   - Checkout
 
 ### **Automation Testing (Selenium)**
-![Automation Testing](https://upload.wikimedia.org/wikipedia/commons/e/e3/Automation_Icon.png)
 - Automate critical workflows, including:
   - Adding products to the cart
   - Completing checkout
@@ -167,4 +165,4 @@ Feel free to contribute! Fork this repository, create a branch, and submit a pul
 ---
 
 ## 💬 Feedback and Support
-For feedback or support, create an issue or contact [8932945274](mailto:Alokmi2111997@gmail.com).
+For feedback or support, create an issue or contact [Alokmi2111997@gmail.com](mailto:Alokmi2111997@gmail.com).
